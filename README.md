@@ -1,5 +1,5 @@
 # 💫 About Me:
-$ Aspiring Data Scientist in Healthcare IT sector with ground level hands-on experience of molecular biology techniques in both plant and animal cell culture. <br>$ Good understanding of biological data and its generation process. <br>$ Detail-oriented team player with strong organizational skills. <br>$ Curious to learn and take up challenging tasks. <br>$ Skilled in MS-SQL, advance excel, Power BI, Python. <br>$ Good at EDA, data filtering, data visualization, report building, presentations, basic ML model building.
+$ Aspiring Data Scientist in Healthcare IT with ground level hands-on experience of molecular biology techniques in both plant and animal cell culture. <br>$ Good understanding of biological data and its generation process. <br>$ Detail-oriented team player with strong organizational skills. <br>$ Curious to learn and take up challenging tasks. <br>$ Skilled in MS-SQL, advance excel, Power BI, Python. <br>$ Good at EDA, data filtering, data visualization, report building, presentations, basic ML model building.
 
 
 ## 🌐 Socials:
